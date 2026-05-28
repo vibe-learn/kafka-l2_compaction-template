@@ -1,6 +1,6 @@
-        # kafka — Log compaction vs retention by time
+        # kafka — Log compaction vs retention по времени
 
-        Homework-шаблон для урока **l2_compaction** (Log compaction vs retention by time) на платформе Vibe Learn.
+        Homework-шаблон для урока **l2_compaction** (Log compaction vs retention по времени) на платформе Vibe Learn.
 
         ## Что делать
 
